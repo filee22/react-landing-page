@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.00321600.css",
+    "main.js": "/react-landing-page/static/js/main.218771c6.js",
+    "static/media/background_pattern2.png": "/react-landing-page/static/media/background_pattern2.ee7fb77365aa2b27d6f3.png",
+    "index.html": "/react-landing-page/index.html",
+    "main.00321600.css.map": "/react-landing-page/static/css/main.00321600.css.map",
+    "main.218771c6.js.map": "/react-landing-page/static/js/main.218771c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00321600.css",
+    "static/js/main.218771c6.js"
+  ]
+}
