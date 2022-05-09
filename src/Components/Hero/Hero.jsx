@@ -25,11 +25,7 @@ const Hero = () => {
           </Link>
         </div>
         <div className='hero__product-wrapper'>
-<<<<<<< HEAD
           <img className='hero__product' src='./images/pizza.png' />
-=======
-          <img className='hero__product' src='./pizza.png' />
->>>>>>> f99c7d2d4e650ba88b293b73599b468a26ca46ef
           <div className='hero__product-card'>
             <div className='hero__product-info-wrapper'>
               <div className='hero__product-text'>Margherita di Bufala</div>
