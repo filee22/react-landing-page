@@ -1,0 +1,109 @@
+.footer__container {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  // background-color: #3b3e4c;
+  background-color: #29292d;
+  color: rgb(231, 231, 231);
+}
+
+.footer__wrapper {
+  width: 1000px;
+  padding-top: 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__logo-rights-social-media-wrapper {
+  width: 290px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__logo {
+  font-size: 35px;
+  font-weight: 800;
+  color: orangered;
+  margin-top: -0.5rem;
+}
+
+.footer__copyright-rights-wrapper {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.footer__social-media-wrapper {
+  margin-top: 1rem;
+  width: 130px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__msc-info-delivery-wrapper {
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer__msc-info-wrapper {
+  width: 550px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.footer__delivery-services-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__delivery-available-via {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.footer__order-services-wrapper {
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.footer__wolt-wrapper {
+  height: 70px;
+  padding: 0 10px 0 10px;
+  background-color: orangered;
+  border-radius: 15px;
+
+  &:hover {
+    cursor: pointer;
+    // background-color: rgb(255, 126, 79);
+  }
+}
+
+.footer__wolt {
+  height: 80px;
+  margin-top: -3px;
+}
+
+.footer__glovo-wrapper {
+  margin-left: 15px;
+  height: 70px;
+  padding: 0 10px 0 10px;
+  background-color: orangered;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+
+  &:hover {
+    cursor: pointer;
+    // background-color: rgb(255, 126, 79);
+  }
+}
+
+.footer__glovo {
+  height: 40px;
+  margin-bottom: 7px;
+}
