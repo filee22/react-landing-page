@@ -27,10 +27,10 @@ const Navbar = () => {
           </div>
           <div className='navbar__order-services-wrapper'>
             <div className='navbar__wolt-wrapper'>
-              <img src='../logo/wolt.svg' alt='' className='navbar__wolt' />
+              <img src='./logo/wolt.svg' alt='' className='navbar__wolt' />
             </div>
             <div className='navbar__glovo-wrapper'>
-              <img src='../logo/glovo.svg' alt='' className='navbar__glovo' />
+              <img src='./logo/glovo.svg' alt='' className='navbar__glovo' />
             </div>
           </div>
         </div>
