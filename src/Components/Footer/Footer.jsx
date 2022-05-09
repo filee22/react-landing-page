@@ -37,10 +37,10 @@ const Footer = () => {
             </span>
             <div className='footer__order-services-wrapper'>
               <div className='footer__wolt-wrapper'>
-                <img src='../logo/wolt.svg' alt='' className='footer__wolt' />
+                <img src='./logo/wolt.svg' alt='' className='footer__wolt' />
               </div>
               <div className='footer__glovo-wrapper'>
-                <img src='../logo/glovo.svg' alt='' className='footer__glovo' />
+                <img src='./logo/glovo.svg' alt='' className='footer__glovo' />
               </div>
             </div>
           </div>
